@@ -9,4 +9,3 @@ func Barks() string {
 	return "Woof! Woof! Woof!"
 }
 
-}
